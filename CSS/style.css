@@ -15,7 +15,7 @@
     margin-left: 15px;
 }
 .hero1{
-    background-image: url('/IMAGES/oksana-dobrovolska-s.jpg');
+    background-image: url('../IMAGES/oksana-dobrovolska-s.jpg');
     background-repeat: no-repeat;
     background-size: 1536px 760px;
     background-position: center -65px;
@@ -134,7 +134,7 @@ header{
     margin-right: 10px;
 }
 .b1-1img{
-    background-image: url('/IMAGES/bcon22.jpg');
+    background-image: url('../IMAGES/bcon22.jpg');
     background-size: 100%;
     background-repeat: no-repeat;
     border-radius: .6rem;
@@ -148,14 +148,14 @@ header{
     font-size: 12px;
 }
 .b2-1img{
-    background-image: url('/IMAGES/blender_siggq.jpg');
+    background-image: url('../IMAGES/blender_siggq.jpg');
     background-size: contain;
     width: 278px;
     height: 278px;
     border-radius: .6rem;
 }
 .b3-1img{
-    background-image: url('/IMAGES/rrr_square.jpg');
+    background-image: url('../IMAGES/rrr_square.jpg');
     background-size: contain;  
     width: 278px;
     height: 278px;
@@ -221,19 +221,19 @@ header{
     padding-top: 10px;
 }
 .pic1{
-    background-image: url('/IMAGES/gitea_diaries_01-1-480x270.jpg');
+    background-image: url('../IMAGES/gitea_diaries_01-1-480x270.jpg');
     background-size: cover;
 }
 .pic2{
-    background-image: url('/IMAGES/youtube-thumbnail-480x270.jpg');
+    background-image: url('../IMAGES/youtube-thumbnail-480x270.jpg');
     background-size: cover;
 }
 .pic3{
-    background-image: url('/IMAGES/viewport_compositor_blogpost-480x270.jpg');
+    background-image: url('../IMAGES/viewport_compositor_blogpost-480x270.jpg');
     background-size: cover;
 }
 .pic4{
-    background-image: url('/IMAGES/2.83LTS-480x270.jpg');
+    background-image: url('../IMAGES/2.83LTS-480x270.jpg');
     background-size: cover;
 }
 .act3{
@@ -270,7 +270,7 @@ header{
 .b1-3img{
     position: relative;
     float: left;
-    background-image: url('/IMAGES/blender_fund_hex-e1629996297522.png');
+    background-image: url('../IMAGES/blender_fund_hex-e1629996297522.png');
     background-size: cover;
     width: 134px;
     height: 192px;
@@ -317,22 +317,22 @@ header{
     margin-left: 50px;
 }
 .pic5{
-    background-image: url('/IMAGES/academy_software_foundation.png');
+    background-image: url('../IMAGES/academy_software_foundation.png');
     background-size: contain;
     background-repeat: no-repeat;
 }
 .pic6{
-    background-image: url('/IMAGES/khronos.png');
+    background-image: url('../IMAGES/khronos.png');
     background-size: contain;
     background-repeat: no-repeat;
 }
 .pic7{
-    background-image: url('/IMAGES/linux_foundation.png');
+    background-image: url('../IMAGES/linux_foundation.png');
     background-size: contain;
     background-repeat: no-repeat;
 }
 .pic8{
-    background-image: url('/IMAGES/open_invention_network.png');
+    background-image: url('../IMAGES/open_invention_network.png');
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -361,19 +361,19 @@ header{
     height: 356.5px;  
 }
 .pic9{
-    background-image: url('/IMAGES/blender_today_pablo.jpg');
+    background-image: url('../IMAGES/blender_today_pablo.jpg');
     background-size: contain;
 }
 .pic10{
-    background-image: url('/IMAGES/daniel_martinez_lara_annecy.jpg');
+    background-image: url('../IMAGES/daniel_martinez_lara_annecy.jpg');
     background-size: cover;
 }
 .pic11{
-    background-image: url('/IMAGES/creating_worlds_ian_hubert.jpg');
+    background-image: url('../IMAGES/creating_worlds_ian_hubert.jpg');
     background-size: contain;
 }
 .pic12{
-    background-image: url('/IMAGES/nodevember.jpg');
+    background-image: url('../IMAGES/nodevember.jpg');
     background-size: cover;
 }
 .act5head{
@@ -400,7 +400,7 @@ header{
     top: 3400px;
     left: 200px;
     /* background-color: #0066ff; */
-    background-image: url('/IMAGES/bcon20_todos.jpg');
+    background-image: url('../IMAGES/bcon20_todos.jpg');
     background-size: 100% 490px;
     background-repeat: no-repeat;
     border-radius: 1rem;
@@ -496,32 +496,32 @@ header{
     font-weight: 400;
 }
 .pic13{
-    background-image: url('/IMAGES/act7pic1.jpg');
+    background-image: url('../IMAGES/act7pic1.jpg');
     background-size: contain;
     background-repeat: no-repeat;
 }
 .pic14{
-    background-image: url('/IMAGES/act7pic2.jpg');
+    background-image: url('../IMAGES/act7pic2.jpg');
     background-size: contain;
     background-repeat: no-repeat;
 }
 .pic15{
-    background-image: url('/IMAGES/act7pic3.jpg');
+    background-image: url('../IMAGES/act7pic3.jpg');
     background-size: contain;
     background-repeat: no-repeat;
 }
 .pic16{
-    background-image: url('/IMAGES/act7pic4.jpg');
+    background-image: url('../IMAGES/act7pic4.jpg');
     background-size: contain;
     background-repeat: no-repeat;
 }
 .pic17{
-    background-image: url('/IMAGES/act7pic5.jpg');
+    background-image: url('../IMAGES/act7pic5.jpg');
     background-size: contain;
     background-repeat: no-repeat;
 }
 .pic18{
-    background-image: url('/IMAGES/act7pic6.jpg');
+    background-image: url('../IMAGES/act7pic6.jpg');
     background-size: contain;
     background-repeat: no-repeat;
 }
